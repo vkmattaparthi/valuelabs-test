@@ -31,8 +31,8 @@ This project is a Spring Boot application that provides an API for generating un
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tracking-number-generator.git
-   cd tracking-number-generator
+   git clone https://github.com/vkmattaparthi/valuelabs-test.git
+   cd valuelabs-test
    ```
 
 2. Build the project using Maven:
