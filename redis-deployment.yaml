@@ -25,7 +25,8 @@ metadata:
 spec:
   type: LoadBalancer
   ports:
-    - port: 6379
-      targetPort: 6379
+    - protocol: TCP
+      port: 6379
+  clusterIP: None
   selector:
     app: redis
