@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-app
-          image: gcr.io/glowing-bus-441505-i1/my-spring-boot-app
+          image: us-central1-docker.pkg.dev/glowing-bus-441505-i1/codelabrepo/spring-boot-app:v1
           ports:
             - containerPort: 8080
 ---
