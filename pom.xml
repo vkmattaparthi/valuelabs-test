@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.app</groupId>
-    <artifactId>tracking-number-generator</artifactId>
+    <artifactId>spring-boot-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Tracking Number Generator</name>
     <description>Scalable Tracking Number Generator</description>
