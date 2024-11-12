@@ -26,6 +26,6 @@ spec:
   type: LoadBalancer
   ports:
     - port: 6379
-      targetPort: 6739
+      targetPort: 6379
   selector:
     app: redis
