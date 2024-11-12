@@ -37,19 +37,19 @@ This project is a Spring Boot application that provides an API for generating un
 
 2. Build the project using Maven:
    ```bash
-   ./mvnw clean install
+   ./mvn clean install
    ```
 
 3. Run the application:
    ```bash
-   ./mvnw spring-boot:run
+   ./mvn spring-boot:run
    ```
 
 ### Running Tests
 
 To run tests, use the following command:
 ```bash
-./mvnw test
+./mvn test
 ```
 
 ## Usage
